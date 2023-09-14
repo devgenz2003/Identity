@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VrXCAVvoSbDeh6EBOr6XgqOAzassBhZQJvtZQr1p2WI=",
+  "Source": "Identity_Demo.API",
+  "BasePath": "_content/Identity_Demo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

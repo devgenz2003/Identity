@@ -1,0 +1,12 @@
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\bin\Debug\net6.0\Identity_Demo.Shared.deps.json
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\bin\Debug\net6.0\Identity_Demo.Shared.dll
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\bin\Debug\net6.0\Identity_Demo.Shared.pdb
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\Identity_Demo.Shared.csproj.AssemblyReference.cache
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\Identity_Demo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\Identity_Demo.Shared.AssemblyInfoInputs.cache
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\Identity_Demo.Shared.AssemblyInfo.cs
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\Identity_Demo.Shared.csproj.CoreCompileInputs.cache
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\Identity_Demo.Shared.dll
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\refint\Identity_Demo.Shared.dll
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\Identity_Demo.Shared.pdb
+D:\Fpoly\C#5\Identity_Demo-master\Identity_Demo-master\Identity_Demo.Shared\obj\Debug\net6.0\ref\Identity_Demo.Shared.dll
